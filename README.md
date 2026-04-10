@@ -39,7 +39,7 @@ This project enables touchless control of system volume and screen brightness us
 
 ```bash
 # 1. Clone the repository
-git clone https://github.com/vanix056/Volume-Brightness-Control.git
+git clone https://github.com/MAbdullahWaqar/Volume-Brightness-Control.git
 cd Volume-Brightness-Control
 
 # 2. Create and activate a virtual environment (recommended)
@@ -116,5 +116,5 @@ This project is licensed under the [MIT License](https://opensource.org/licenses
 
 ## Author
 
-**vanix056**
-- GitHub: [@vanix056](https://github.com/vanix056)
+**Muhammad Abdullah Waqar**
+- GitHub: [@MAbdullahWaqar](https://github.com/MAbdullahWaqar)
